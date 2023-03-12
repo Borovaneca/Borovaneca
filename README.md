@@ -1,18 +1,50 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center">Hi 👋, I'm Petyo 
+<p align="center">
+<a href="https://www.facebook.com/borovaneca" target="blank"><img align="center" alt="Petyo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
+<a href="https://instagram.com/petyo.veselinov" target="blank"><img align="center" alt="Petyo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
+<a href="https://www.linkedin.com/in/petyo-veselinov-57b838264/" target="blank"><img align="center" alt="Petyo's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a></p></h1>
+
+<div align='center'>
+ 
+<img src="https://gifimage.net/wp-content/uploads/2018/04/pokeball-opening-gif-8.gif" width="50px"/>
+ <details>
+ <summary>Open profile</summary>
+<h3 align="center">Finding passion in software engineering</h3>
+<div align='center'>
+<img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<br>
 </div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<p>-👋 I’m Petyo Veselinov @Borovaneca </p>
-<p>- 👀 I’m interested in coding, playing games, traveling </p>
-<p>- 🌱 I’m currently learning Java Web DevelOp in SoftUni</p>
-<p>- 📫 How to reach me petyoveselinov@gmail.com</p>
-<!---
-Borovaneca/Borovaneca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<div align='center'>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=D137D4&center=true&vCenter=true&width=460&lines=Keep+calm+and+code+on!)](https://git.io/typing-svg)
+ 
+
+ 💻 Currently working on homeworks 😅
+
+ 🌱 Learning Java
+
+ 🎓 Master of Travelling
+
+ 🎮 Love gaming
+
+ 📫 How to reach me **petyoveselinov@gmail.com**
+
+</div>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<code><img height="30" width="30" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
+<code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</p>
+ 
+  </details>
+ 
+<img src="https://gifimage.net/wp-content/uploads/2018/04/pokeball-opening-gif-8.gif" width="50px"/>
+ 
+</div>
 
 **GitHub Stats**
 
