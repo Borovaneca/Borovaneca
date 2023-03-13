@@ -29,18 +29,15 @@
 
 </div>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
 <code><img height="30" width="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</p>
+<code><img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
  </details>
- 
+
 <img src="https://gifimage.net/wp-content/uploads/2018/04/pokeball-opening-gif-8.gif" width="50px"/>
- 
-</div>
 
 **GitHub Stats**
 
@@ -51,3 +48,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 **GitHub Trophies**
 
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Borovaneca&column=7" alt="GitHub Trophies" /></a>
+ </div>
