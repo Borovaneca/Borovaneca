@@ -21,8 +21,6 @@
 
  🌱 Learning Java
 
- 🎓 Master of Travelling
-
  🎮 Love gaming
 
  📫 How to reach me **petyoveselinov@gmail.com**
