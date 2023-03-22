@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Petyo 
+<h1 align="center">Hi    👋, I'm Petyo 
 <p align="center">
 <a href="https://www.facebook.com/borovaneca" target="blank"><img align="center" alt="Petyo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
 <a href="https://instagram.com/petyo.veselinov" target="blank"><img align="center" alt="Petyo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
@@ -24,7 +24,7 @@
  🎮 Love gaming
 
  📫 How to reach me **petyoveselinov@gmail.com**
-
+ 
 </div>
 <h3 align="center">Languages and Tools:</h3>
 <code><img height="30" width="30" 
