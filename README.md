@@ -23,7 +23,7 @@
 
  🎮 Love gaming
 
- 📫 How to reach me **petyoveselinov@gmail.com**
+ 📫 How to reach me **petyoveselinov@petyoveselinov.com**
  
 </div>
 <h3 align="center">Languages and Tools:</h3>
