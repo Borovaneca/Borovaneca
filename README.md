@@ -20,7 +20,6 @@
  💻 Currently working on homeworks 😅
 
  🌱 Learning Java
-
  🎮 Love gaming
 
  📫 How to reach me **petyoveselinov@petyoveselinov.com**
