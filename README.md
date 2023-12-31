@@ -7,6 +7,7 @@
 <div align='center'>
  
 <img src="https://gifimage.net/wp-content/uploads/2018/04/pokeball-opening-gif-8.gif" width="50px"/>
+
  <details>
  <summary>Open profile</summary>
 <h3 align="center">Finding passion in software engineering</h3>
