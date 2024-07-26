@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Petyo+Veselinov;SoftUni+Java+Web+Developer+Student)](https://git.io/typing-svg)
 <p align="center">
-<a href="https://www.facebook.com/borovaneca" target="blank"><img align="center" alt="Petyo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
+<a href="https://www.facebook.com/borovaneca" target="blank"><img align="center" alt="Petyo's Facebook" width="22px" src="[https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png](https://w7.pngwing.com/pngs/991/568/png-transparent-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png)?w=512&h=512" /></a>
 <a href="https://instagram.com/petyo.veselinov" target="blank"><img align="center" alt="Petyo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
 <a href="https://www.linkedin.com/in/petyo-veselinov-57b838264/" target="blank"><img align="center" alt="Petyo's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a></p></h1>
 
