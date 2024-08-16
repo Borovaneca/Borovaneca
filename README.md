@@ -12,7 +12,7 @@
  <summary>Open profile</summary>
 <h3 align="center">Finding passion in software engineering</h3>
 <div align='center'>
-<img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="center" alt="Coding" width="300" src="https://i.ibb.co/JQCDybr/petyo-veselinov-1-removebg-preview.png">
 <br>
 </div>
 <br>
