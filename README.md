@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/borovaneca" target="blank"><img align="center" alt="Petyo's Facebook" width="22px" src="https://w7.pngwing.com/pngs/991/568/png-transparent-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png?w=512&h=512" /></a>
 <a href="https://instagram.com/petyo.veselinov" target="blank"><img align="center" alt="Petyo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
 <a href="https://www.linkedin.com/in/petyo-veselinov-57b838264/" target="blank"><img align="center" alt="Petyo's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a></p></h1>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Borovaneca&label=Profile%20views&color=0e75b6&style=flat" alt="Borovaneca" /> </p>
 <div align='center'>
  
 <img src="https://gifimage.net/wp-content/uploads/2018/04/pokeball-opening-gif-8.gif" width="50px"/>
