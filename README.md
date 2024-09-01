@@ -38,11 +38,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img src="https://gifimage.net/wp-content/uploads/2018/04/pokeball-opening-gif-8.gif" width="50px"/>
 
 **GitHub Stats**
-<div align="center">
-<!--   <picture> -->
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/annoyedorange/annoyedorange/output/github-contribution-grid-snake-dark.svg" />
-<!--   </picture> -->
-</div>
 
 | <a href=#><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Borovaneca&theme=dark&background=000000" alt="Stats" /></a> |
 <div align="center">
